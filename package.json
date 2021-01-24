@@ -6,7 +6,7 @@
     "test": "test"
   },
   "dependencies": {
-    "signal-exit": "^3.0.2"
+    "signal-exit": "^3.0.3"
   },
   "devDependencies": {
     "tap": "^12.4.0",
